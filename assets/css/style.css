@@ -102,22 +102,20 @@ a {
 	background-color: white;
 	width: 270px; 
 	float: left;
-	height: 200px;
+	height: 150px;
 	margin-left: 20px;
 	margin-top: 40px;
 	padding: 20px 0 0 30px;
 
+ }
 
-
+ .social {
+ 	margin-left: 16px;
  }
 
 
 
-.socpic {
-	border-width: 1px;
-	border-color: black;
-	border-style:solid;
-}
+
 
 
 .footer {
