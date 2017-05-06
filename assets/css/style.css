@@ -108,6 +108,11 @@ a {
 	margin-top: 40px;
 	padding: 20px 0 0 15px;
 	float: left;
+	border:1px;
+	border-style: solid;
+	border-color: #dddddd;
+
+
 
  }
 
@@ -119,6 +124,9 @@ a {
 	padding: 20px 0 0 15px;
 	float: left;
 	margin-bottom: 50px;
+	border:1px;
+	border-style: solid;
+	border-color: #dddddd;
 
  }
 
@@ -130,6 +138,9 @@ a {
 	padding: 20px 0 0 15px;
 	float: left;
 	margin-bottom: 50px;
+	border:1px;
+	border-style: solid;
+	border-color: #dddddd;
 
  }
 
@@ -151,6 +162,9 @@ a {
 	margin-left: 20px;
 	margin-top: 40px;
 	padding: 20px 0 0 30px;
+	border:1px;
+	border-style: solid;
+	border-color: #dddddd;
 
  }
 
