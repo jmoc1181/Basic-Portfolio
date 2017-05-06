@@ -121,6 +121,16 @@ a {
 
  }
 
+  .contactme {
+	background-color: white;
+	width: 650px; 
+	height: 700px;
+	margin-top: 40px;
+	padding: 20px 0 0 15px;
+	float: left;
+	margin-bottom: 50px;
+
+ }
 
  .style1 {
  	border-top: 2px solid #777777;
@@ -213,6 +223,7 @@ a {
 
 
 input[type=submit]  {
+	  -webkit-appearance: button;
 	height: 40px;
 	width: 120px;
 	background-color: #4aaaa5;
@@ -220,6 +231,7 @@ input[type=submit]  {
 	font-size: 18px;
 	color: white;
 	border: none;
+	
 }
 
 
