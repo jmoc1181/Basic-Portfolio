@@ -50,6 +50,7 @@ body {
 textarea {
   width: 600px;
   height: 150px;
+  border-color: #777777;
 }
 
 
