@@ -212,7 +212,7 @@ a {
 }
 
 
-.contactsubmit {
+input[type=submit]  {
 	height: 40px;
 	width: 120px;
 	background-color: #4aaaa5;
